@@ -6,6 +6,7 @@ Using the chart maker we can create charts of any of the following types :
 3. Pie Chart
 4. Line Chart
 5. Donut Chart
+
 This project provides an option of printing the charts and is implemented using Qt5 GUI Library in C++.
 
 Group Members:
