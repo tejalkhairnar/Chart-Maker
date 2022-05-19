@@ -9,6 +9,9 @@ Using the chart maker we can create charts of any of the following types :
 This project provides an option of printing the charts and is implemented using Qt5 GUI Library in C++.
 
 Group Members:
+
 111903157 - Tejal Khairnar
+
 111910127 - Vishwesh Pujari
+
 111910048 - Jayesh Gadilohar
